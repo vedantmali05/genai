@@ -24,14 +24,10 @@ I have been using the new Samsung Galaxy S24 Ultra as my primary device for the 
 Under the hood, the Snapdragon 8 Gen 3 processor is an absolute monster. App launches are instantaneous, multitasking with split-screen is effortless, and heavy gaming runs at a consistent 120 FPS without any noticeable thermal throttling. However, the processor experience does have a slight quirk: under sustained workloads like 4K video rendering, the back glass gets noticeably warm, and I noticed a slight frame drop in the camera app UI when switching rapidly between lenses. 
 
 The 5,000mAh battery has been stellar. On average, I get about 8 to 9 hours of screen-on time with heavy use, easily lasting a full day and a half. Charging speed is decent but at 45W, it lags behind competitor speeds.
-
-Pros:
 - Phenomenal Snapdragon 8 Gen 3 performance.
 - Excellent 1.5-day battery life with 8+ hours of Screen-on-Time.
 - Beautiful, bright flat AMOLED display with reduced reflections.
 - Titanium build feels premium and durable.
-
-Cons:
 - 45W charging is slow compared to Chinese flagships.
 - Minor stutter in camera app UI when switching lenses.
 - Extremely expensive, starting at $1,299.
