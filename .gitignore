@@ -62,7 +62,6 @@ htmlcov/
 
 # Jupyter Notebook
 .ipynb_checkpoints
-*.ipynb
 
 # IPython
 .ipython/profile_default/history.sqlite
