@@ -74,3 +74,4 @@ htmlcov/
 *.log
 temp.json
 temp.txt
+.scratchpad
